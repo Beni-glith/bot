@@ -1,0 +1,5 @@
+python-telegram-bot==21.4
+SQLAlchemy[asyncio]==2.0.21
+aiosqlite
+alembic
+python-dotenv
